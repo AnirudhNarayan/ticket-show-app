@@ -8,10 +8,10 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ticket-show-app?style=social)](https://github.com/yourusername/ticket-show-app)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/ticket-show-app?style=social)](https://github.com/yourusername/ticket-show-app)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/ticket-show-app)](https://github.com/yourusername/ticket-show-app/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ticket-show-app)](https://github.com/yourusername/ticket-show-app/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/AnirudhNarayan/ticket-show-app?style=social)](https://github.com/AnirudhNarayan/ticket-show-app)
+[![GitHub forks](https://img.shields.io/github/forks/AnirudhNarayan/ticket-show-app?style=social)](https://github.com/AnirudhNarayan/ticket-show-app)
+[![GitHub issues](https://img.shields.io/github/issues/AnirudhNarayan/ticket-show-app)](https://github.com/AnirudhNarayan/ticket-show-app/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/AnirudhNarayan/ticket-show-app)](https://github.com/AnirudhNarayan/ticket-show-app/pulls)
 
 </div>
 
@@ -100,7 +100,7 @@ Ticket_Show/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ticket-show-app.git
+   git clone https://github.com/AnirudhNarayan/ticket-show-app.git
    cd ticket-show-app
    ```
 
@@ -259,8 +259,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Anirudh Narayan** - *Full Stack Developer*
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Anirudh Narayan](https://linkedin.com/in/yourprofile)
+- GitHub: [@AnirudhNarayan](https://github.com/AnirudhNarayan)
+- LinkedIn: [Anirudh Narayan](https://linkedin.com/in/anirudh-narayan)
 - Email: anid6910@gmail.com
 
 ## 🙏 Acknowledgments
