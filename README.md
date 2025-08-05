@@ -260,7 +260,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Anirudh Narayan** - *Full Stack Developer*
 
 - GitHub: [@AnirudhNarayan](https://github.com/AnirudhNarayan)
-- LinkedIn: [Anirudh Narayan](https://linkedin.com/in/anirudh-narayan)
+- LinkedIn: [Anirudh Narayan](https://www.linkedin.com/in/anirudh-narayan-1b708a241/)
 - Email: anid6910@gmail.com
 
 ## 🙏 Acknowledgments
