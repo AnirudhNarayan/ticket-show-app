@@ -1,4 +1,4 @@
-# 🎭 Ticket Show App - Full Stack Web Application
+#  Ticket Show App - Full Stack Web Application
 
 <div align="center">
 
